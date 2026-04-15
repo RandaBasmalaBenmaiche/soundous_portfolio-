@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // If deploying to a custom domain, you can remove the base property entirely
 export default defineConfig({
   plugins: [react()],
-  base: '/soundous_portfolio/',
+  base: '/soundous_portfolio-/',
 })
