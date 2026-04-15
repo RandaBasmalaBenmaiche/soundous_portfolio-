@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React, Tailwind CSS, and Framer Motion. Features a clean, minimal design with smooth animations and project case study pages.
 
-## Features
+## Features:
 
 - Single-page portfolio with smooth scroll navigation
 - Individual case study pages for each project
